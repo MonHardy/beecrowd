@@ -5,20 +5,18 @@
 package mypackage.d1011;
 import java.util.Scanner;
 import java.io.*;
+import java.util.Locale;
 
 /**
  * @author monnhardy
  */
 
-public class i1011 {
+public class Main {
 
     public static void main(String args[]) {
-        double raiodaesfera, pi = 3.14159, R3;
-        Scanner ler = new Scanner(System.in);
-        
-        R3 = ler.nextDouble();
-        
-        raiodaesfera = (4/3.0) * pi * Math.pow(R3, 3);
-        System.out.printf("VOLUME = %.3f" , raiodaesfera , "\n");
+    Scanner ler = new Scanner(System.in);
+    double R = ler.nextDouble();
+    double V = (4.0/3.0) * 3.14159 * Math.pow(R, 3);
+    System.out.printf(Locale.ROOT, "VOLUME = %.3f\n" ,V);
     }
 }
