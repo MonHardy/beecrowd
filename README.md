@@ -3,6 +3,6 @@
 <h1>Índice</h1>
 <h6>[Iniciante]<p>
 1000 a 1011</h6>
-<h1>About</h1>
+<h1>Sobre</h1>
 Espaço reservado para estudos independentes retirados do <a href="www.beecrowd.com.br">Beecrowd</a>. <p><p><p>
 <img alr="allthebest" src="https://user-images.githubusercontent.com/85580881/168424749-f2e1f020-114e-4ad6-8280-a08819dfed5c.png"/>
