@@ -41,5 +41,5 @@ Marcos Antônio dos Santos
 ##
 Links úteis:
 - [Desafio no site](https://www.beecrowd.com.br/judge/pt/problems/view/2602)
-  
+- [Resolução](https://github.com/MonHardy/beecrowd/blob/main/SQL/2602/2602.sql)
 	
